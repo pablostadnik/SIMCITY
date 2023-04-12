@@ -1,0 +1,55 @@
+
+#loguin{
+	margin: 0 auto;
+	width: 215px;
+	border-radius: 10px;
+   border:1px solid #000;
+    box-shadow: 6px 6px 6px;
+    padding: 10px;
+    float:right;
+    margin-top: 30px;
+    margin-right: 130px;
+    
+}
+
+
+
+
+.btn-default {
+    color: white;
+    background-color:  black;
+    border-color: rgb(204, 204, 204);
+}
+.btn {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0px;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.42857;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px 4px 4px 4px;
+    -moz-user-select: none;
+}
+.btn-default:hover,
+.btn-default:focus,
+.btn-default:active,
+.btn-default.active,
+.open .dropdown-toggle.btn-default {
+  color: white;
+  background-color: black;
+  border-color: #adadad;
+}
+
+h2{
+    color: white;
+}
+
+label{
+    color: white;
+}

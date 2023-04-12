@@ -1,0 +1,254 @@
+/* CSS Document */
+body {
+margin:0px;
+padding:0px;
+background-image:url("../images/fondo_contacto.jpg");
+font-size:13px;
+}
+#contenedor{
+margin:0px auto;
+display:block;
+}
+span{
+color:#666;
+text-decoration:none;
+font-weight:normal;
+font-family: Arial, Helvetica, sans-serif;
+font-size:11px;
+}
+#contenedorform{
+margin:0px auto
+display:block;
+width:326px;
+height:300px;
+margin-top:35px;
+}
+.field {
+border:none;
+color:#000;
+background-color: #DFDFDF;
+margin-bottom:5px;
+}
+#contact-form{
+border:none;
+color:#000;
+}
+#botom{
+	width:100%;
+	position:absolute;
+	margin-bottom:0px;
+	height:70px;
+	margin:0px auto;
+	bottom:0px;
+	z-index:200;
+	left: 0px;
+}
+#top{
+width:100%;
+margin-top:0px;
+height:120px;
+margin:0px auto;
+}
+#contenido{
+margin-top:130px;
+margin:0px auto;
+width:1100px;
+height:400px;
+display:block;
+}
+#caja{
+margin-top:30px;
+}
+#botonera{
+width:1100px;
+margin-top:0px;
+height:120px;
+margin:0px auto;
+background:#000;
+}
+#botonerabotom{
+width:1100px;
+margin-top:0px;
+height:70px;
+margin:0px auto;
+}
+#botones{
+width:350px;
+margin-top:0px;
+height:42px;
+margin:0px auto;
+float:left;
+font-family:Arial, Helvetica, sans-serif;;
+font-size:15px;
+padding-top:78px;
+padding-left:10px;
+text-decoration:none;
+}
+#botones ul{
+display:inline;
+text-decoration:none;
+}
+#botones ul li{
+display:inline;
+text-decoration:none;
+}
+#botones ul li a{
+color: #666;
+text-decoration:none;
+}
+#botones ul li a:hover{
+color: #fff;
+text-decoration:none;
+}
+#botones ul li a.presionado{
+color: #fff;
+text-decoration:none;
+}
+#pieres a{
+position: relative;
+margin-top:0px;
+margin-left:0px;
+width:225px;
+height:120px;
+float:left;
+background-image:url("../images/logosin2.png");
+background-size: 225px 120px;
+}
+#pieres a:hover{
+background-image:url("../images/logosin.png");
+}
+#textura{
+width:420px;
+height:120px;
+float: right;
+background-image:url("../images/textura.jpg");
+}
+#publi0{
+width:361px;
+height:70px;
+float:left;
+background-image:url("../images/trans0.png");
+}
+#publi1{
+margin-left:10px;
+width:173px;
+height:70px;
+float: right;
+background-image:url("../images/coronamuestra3.png");
+}
+#publi2{
+margin-left:10px;
+width:173px;
+height:70px;
+float: right;
+background-image:url("../images/prueba frizze.png");
+}
+#publi3{
+margin-left:10px;
+width:173px;
+height:70px;
+float: right;
+background-image:url("../images/chandonterminado2.png");
+}
+#publi4{
+margin-left:10px;
+width:173px;
+height:70px;
+float: right;
+background-image:url("../images/budfinal.png");
+}
+#face a{
+position:relative;
+margin-top:18px;
+margin-left:10px;
+width:37px;
+height:37px;
+float:left;
+background-image:url("../images/face2.png");
+}
+#face a:hover{
+background-image:url("../images/face1.png");
+}
+#twi a{
+position:relative;
+margin-top:18px;
+margin-left:0px;
+width:37px;
+height:37px;
+float:left;
+background-image:url("../images/twi2.png")
+}
+#twi a:hover{
+background-image:url("../images/twi1.png");
+}
+#descripcion{
+margin-left:0px;
+width:316px;
+height:385px;
+float:left;
+background-image:url("../images/des_sincon.gif");
+font-family: Arial, Helvetica, sans-serif;
+font-weight:normal;
+line-height:14px;
+padding-left:15px;
+padding-right:30px;
+padding-top:15px;
+font-size:12px;
+color: #666;
+}
+#cuadrado1{
+margin-top:0px;
+margin-left:10px;
+width:186px;
+height:200px;
+float:left;
+font-family:Arial, Helvetica, sans-serif;
+display:block;
+color: #fff;
+font-size:11px;
+text-align:right;
+opacity:0.3;
+}
+#cuadrado1 h2{
+font-family:Arial, Helvetica, sans-serif;
+color: #fff;
+font-size:31px;
+line-height:10px;
+
+}
+#cuadrado2{
+position: relative;
+margin-top:0px;
+margin-left:0px;
+width:176px;
+height:155px;
+float:left;
+background-image:url("../images/cuadrado4boliche.gif");
+color: #fff;
+text-decoration:none;
+display:block;
+padding-left:20px;
+padding-top:45px;
+line-height:20px;
+}
+#cuadrados{
+position: relative;
+margin-top:0px;
+margin-left:0px;
+width:196px;
+height:400px;
+float:left;
+background-image:url("../images/cuadrado1.gif")(no-repeat);
+}
+#splash{
+width:543px;
+height:400px;
+float: right;
+display:block;
+}
+.borrar{
+clear:both;
+}
+.borrar1{
+clear:both;
+}

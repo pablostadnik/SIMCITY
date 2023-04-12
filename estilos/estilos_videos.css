@@ -1,0 +1,243 @@
+/* CSS Document */
+body {
+margin:0px;
+padding:0px;
+background-image:url("../images/fiesta3.jpg");
+font-size:13px;
+}
+#contenedor{
+margin:0px auto;
+display:block;
+}
+#botom{
+	width:100%;
+	position:absolute;
+	margin-bottom:0px;
+	height:70px;
+	margin:0px auto;
+	bottom:0px;
+	z-index:200;
+	left: 0px;
+}
+#top{
+width:100%;
+margin-top:0px;
+height:120px;
+margin:0px auto;
+}
+#contenido{
+margin-top:130px;
+margin:0px auto;
+width:1100px;
+height:400px;
+display:block;
+}
+#caja{
+margin-top:30px;
+}
+#botonera{
+width:1100px;
+margin-top:0px;
+height:120px;
+margin:0px auto;
+background:#000;
+}
+#botonerabotom{
+width:1100px;
+margin-top:0px;
+height:70px;
+margin:0px auto;
+}
+#botones{
+width:350px;
+margin-top:0px;
+height:42px;
+margin:0px auto;
+float:left;
+font-family:Arial, Helvetica, sans-serif;;
+font-size:15px;
+padding-top:78px;
+padding-left:10px;
+text-decoration:none;
+}
+#botones ul{
+display:inline;
+text-decoration:none;
+}
+#botones ul li{
+display:inline;
+text-decoration:none;
+}
+#botones ul li a{
+color: #666;
+text-decoration:none;
+}
+#botones ul li a:hover{
+color: #fff;
+text-decoration:none;
+}
+#botones ul li a.presionado{
+color: #fff;
+text-decoration:none;
+}
+#pieres a{
+position: relative;
+margin-top:0px;
+margin-left:0px;
+width:225px;
+height:120px;
+float:left;
+background-image:url("../images/sindoble.png");
+background-position:left;
+}
+#pieres a:hover{
+background-position: right;
+}
+#textura{
+width:420px;
+height:120px;
+float: right;
+background-image:url("../images/textura.jpg");
+}
+#publi0{
+width:361px;
+height:70px;
+float:left;
+background-image:url("../images/trans0.png");
+}
+#publi1{
+margin-left:10px;
+width:173px;
+height:70px;
+float: right;
+background-image:url("../images/coronamuestra3.png");
+}
+#publi2{
+margin-left:10px;
+width:173px;
+height:70px;
+float: right;
+background-image:url("../images/prueba frizze.png");
+}
+#publi3{
+margin-left:10px;
+width:173px;
+height:70px;
+float: right;
+background-image:url("../images/chandonterminado2.png");
+}
+#publi4{
+margin-left:10px;
+width:173px;
+height:70px;
+float: right;
+background-image:url("../images/budfinal.png");
+}
+#face a{
+position:relative;
+margin-top:18px;
+margin-left:10px;
+width:37px;
+height:37px;
+float:left;
+background-image:url("../images/face3.png");
+background-position: left;
+}
+#face a:hover{
+background-position: right;
+}
+#twi a{
+position:relative;
+margin-top:18px;
+margin-left:0px;
+width:37px;
+height:37px;
+float:left;
+background-image:url("../images/twi3.png");
+background-position:left;
+}
+#twi a:hover{
+background-position: right;
+}
+#descripcion{
+margin-left:0px;
+width:326px;
+height:385px;
+float:left;
+background-image:url("../images/des_sinvid.gif");
+font-family:Arial, Helvetica, sans-serif;
+font-weight:normal;
+padding-left:15px;
+padding-right:20px;
+padding-top:15px;
+font-size:14px;
+line-height:23px;
+}
+h1{
+font-family: "DIN Next LT Pro bold Condensed";
+font-size:27px;
+}
+#descripcion ul{
+margin-left:0px;
+
+}
+#descripcion ul li{
+list-style: none;
+
+}
+#descripcion ul li a{
+text-decoration: none;
+color: #999;
+}
+#descripcionul li a:hover{
+color: #69209e;
+}
+#descripcion ul li a.presionado{
+color: #69209e;
+}
+#groznik{
+width:256px;
+height:15px;
+font-size:10px;
+margin-top:15px;
+margin-left:2px;
+color:#fff;
+float:right;
+text-align:right;
+font-family: Arial, Helvetica, sans-serif;
+}
+#groznik a{
+margin-left:2px;
+color:#fff;
+float:right;
+text-align:right;
+}
+#groznik a:hover{
+color:#fff;
+}
+#splash{
+width:739px;
+height:400px;
+float: right;
+display:block;
+}
+#video{
+margin-left:0px;
+margin-bottom:0px;
+width:739px; /* Change this to your images width */
+height:400px; /* Change this to your images height */
+float:right;
+}
+.borrar{
+clear:both;
+}
+.borrar1{
+clear:both;
+}
+#slideshow IMG {
+position:absolute;
+top:0;
+left:0;
+z-index:8;
+opacity:0.0;
+}
